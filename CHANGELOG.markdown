@@ -1,4 +1,4 @@
-0.8 [????.??.??]
+0.8 [2026.01.10]
 ----------------
 * Fix a bug where `liftShowsPrecDefault` would not evaluate empty data types
   (i.e., data types whose generic representations use `V1`) properly.
